@@ -1,0 +1,34 @@
+{
+  "doctors": [
+    {
+      "photo": "",
+      "mutax": "Mutaxassisligi",
+      "country": "Tugilgan joyi",
+      "bolim": "Ishlayotgan bolimi",
+      "grafik": "Ish grafigi",
+      "staj": "Ish staji",
+      "doctor": "Fayziyev.M",
+      "reason": "bosh ogrigi",
+      "sharoit": "ajrashgan",
+      "malumoti": "Malumoti",
+      "title": "",
+      "id": 1,
+      "tdate": "2021-05-05",
+      "idate": "2021-05-28"
+    }
+  ],
+  "patients": [
+    {
+      "bolim": "Davolangan bolim",
+      "doctor": "Masul shifokor",
+      "reason": "Sababi",
+      "country": "Tugilgan joyi",
+      "invalid": "II guruh",
+      "allergiya": "",
+      "title": "",
+      "id": 1,
+      "imtiyozs": "2021-06-03",
+      "holat": "ajrashgan"
+    }
+  ]
+}
